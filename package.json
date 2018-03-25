@@ -1,0 +1,23 @@
+{
+  "name": "special-assistant",
+  "version": "1.0.0",
+  "description": "Repository for the web client of speech-to-text service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noce2/special-assistant.git"
+  },
+  "author": "Nsikan Essien",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/noce2/special-assistant/issues"
+  },
+  "homepage": "https://github.com/noce2/special-assistant#readme",
+  "dependencies": {
+    "@angular/cli": "^1.7.3",
+    "microsoft-speech-browser-sdk": "0.0.12"
+  }
+}
